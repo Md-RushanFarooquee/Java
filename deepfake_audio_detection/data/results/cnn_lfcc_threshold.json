@@ -1,0 +1,11 @@
+{
+  "model": "cnn",
+  "feature": "lfcc",
+  "split": "dev",
+  "epoch": 3,
+  "threshold": 0.5579909549484253,
+  "eer": 0.0,
+  "log_loss": 0.78211571900265,
+  "val_loss": 0.7824267659868512,
+  "val_accuracy": 1.0
+}

@@ -1,0 +1,15 @@
+{
+  "split": "eval",
+  "model": "crnn",
+  "feature": "lfcc",
+  "evaluated_at_utc": "2026-04-23T00:14:46Z",
+  "checkpoint_path": "C:\\Coding\\College Projects\\DeepFakeProject\\deepfake_audio_detection\\checkpoints\\crnn_lfcc.pth",
+  "command": "evaluate.py --checkpoint checkpoints/crnn_lfcc.pth --split eval --batch_size 8 --threshold_file data/results/crnn_lfcc_threshold.json --save_reports --debug",
+  "num_samples": 100,
+  "eer": 0.5714285714285714,
+  "threshold": 0.4636440442333221,
+  "threshold_source": "file:data\\results\\crnn_lfcc_threshold.json",
+  "log_loss": 0.8993987182390675,
+  "accuracy": 0.19,
+  "attack_rows": 13
+}

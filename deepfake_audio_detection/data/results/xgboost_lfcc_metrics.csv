@@ -1,0 +1,2 @@
+model,feature,epoch,loss,accuracy,EER,lr,batch_size,time
+xgboost_lfcc,lfcc,1,1.0000002701016705e-06,1.0,0.0,0.1,0,2.6013

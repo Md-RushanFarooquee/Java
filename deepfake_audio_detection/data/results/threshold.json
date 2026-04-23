@@ -1,0 +1,8 @@
+{
+  "model": "xgboost",
+  "feature": "lfcc",
+  "threshold": 1.999999770101567e-06,
+  "eer": 0.0,
+  "split": "dev",
+  "num_samples": 100
+}
