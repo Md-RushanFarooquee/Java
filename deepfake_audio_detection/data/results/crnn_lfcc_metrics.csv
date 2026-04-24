@@ -1,4 +1,0 @@
-model,feature,epoch,loss,accuracy,EER,lr,batch_size,time
-crnn,lfcc,1,0.6743648433685303,1.0,0.0,0.0001,4,4.7057
-crnn,lfcc,2,0.6041062092781067,1.0,0.0,0.0001,4,5.9396
-crnn,lfcc,3,0.5413694643974304,1.0,0.0,0.0001,4,5.9048

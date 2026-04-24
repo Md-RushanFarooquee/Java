@@ -1,5 +1,0 @@
-model,feature,split,num_samples,eer,accuracy,log_loss,threshold,threshold_source,evaluated_at_utc,summary_file,report_file
-lstm,lfcc,eval,100,0.4069767441860465,0.16,0.7253205741238802,0.5080644951591492,file:data\results\lstm_lfcc_threshold.json,2026-04-23T00:14:43Z,data/results/lstm_lfcc_eval_summary.json,experiments/lstm_lfcc_eval_report.md
-cnn,lfcc,eval,100,0.46511627906976744,0.47,0.6166079162691288,0.5579909549484253,file:data\results\cnn_lfcc_threshold.json,2026-04-23T00:14:39Z,data/results/cnn_lfcc_eval_summary.json,experiments/cnn_lfcc_eval_report.md
-xgboost,lfcc,eval,100,0.5,0.14,11.881339417561987,1.999999770101567e-06,file:data\results\threshold.json,2026-04-22T18:17:50Z,data/results/xgboost_lfcc_eval_summary.json,experiments/xgboost_lfcc_eval_report.md
-crnn,lfcc,eval,100,0.5714285714285714,0.19,0.8993987182390675,0.4636440442333221,file:data\results\crnn_lfcc_threshold.json,2026-04-23T00:14:46Z,data/results/crnn_lfcc_eval_summary.json,experiments/crnn_lfcc_eval_report.md
