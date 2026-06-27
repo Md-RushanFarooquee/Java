@@ -1,0 +1,7 @@
+given an array of size n+1 consisting of integers 1 to n.
+one of the elements is duplicate in the array.
+find the duplicate element
+
+Method 1 : brute force
+Method 2 : Boolean 
+Method 3 : Most Optimised method
